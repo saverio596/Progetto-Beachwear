@@ -21,7 +21,6 @@ In linea con le best practice di sviluppo, la repository contiene solo il codice
 
 - `src/`: Contiene i file sorgente TypeScript (`.ts`).
   - `Interfaces.ts`: Definizione dei contratti (IProdotto, ICliente, ecc.).
-  - `Classes.ts`: Implementazione delle logica e delle classi.
   - `index.ts`: Script di test e inizializzazione.
 - `tsconfig.json`: Configurazione per la compilazione TypeScript.
 
