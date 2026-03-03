@@ -12,7 +12,7 @@ Dimostrare la capacità di strutturare un'architettura software solida utilizzan
 
 ## 🔗 Demo Live
 È possibile visualizzare il codice in funzione senza configurare l'ambiente locale tramite CodePen:
-👉 [**Guarda la Demo su CodePen**](INSERISCI_QUI_IL_TUO_LINK_DI_CODEPEN)
+👉 [**Guarda la Demo su CodePen**](https://codepen.io/saverio-benedetto/pen/azmveYr)
 
 ---
 
