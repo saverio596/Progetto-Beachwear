@@ -24,7 +24,6 @@ In linea con le best practice di sviluppo, la repository contiene solo il codice
   - `Classes.ts`: Implementazione delle logica e delle classi.
   - `index.ts`: Script di test e inizializzazione.
 - `tsconfig.json`: Configurazione per la compilazione TypeScript.
-- `.gitignore`: Configurato per escludere `node_modules` e la cartella di build `dist`.
 
 ---
 
